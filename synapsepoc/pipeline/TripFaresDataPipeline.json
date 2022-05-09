@@ -465,7 +465,7 @@
 			},
 			"SynapseWorkspaceName": {
 				"type": "string",
-				"defaultValue": "synapse-vinr45ryf3d5h6h6pocws1.database.windows.net"
+				"defaultValue": "vinr45ryf3d5h6h6pocws1.database.windows.net"
 			},
 			"SQLDedicatedPoolName": {
 				"type": "string",
